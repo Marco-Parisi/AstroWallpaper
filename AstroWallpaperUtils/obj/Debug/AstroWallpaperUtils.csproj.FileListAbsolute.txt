@@ -1,0 +1,12 @@
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\bin\Debug\AstroWallpaperUtils.dll
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\bin\Debug\AstroWallpaperUtils.pdb
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\obj\Debug\AstroWallpaperUtils.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\obj\Debug\AstroWallpaperUtils.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\obj\Debug\AstroWal.CED6C763.Up2Date
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\obj\Debug\AstroWallpaperUtils.dll
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperUtils\obj\Debug\AstroWallpaperUtils.pdb

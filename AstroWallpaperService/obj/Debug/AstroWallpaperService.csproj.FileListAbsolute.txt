@@ -1,0 +1,11 @@
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperService\bin\Debug\AstroWallpaperService.exe.config
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperService\bin\Debug\AstroWallpaperService.exe
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperService\bin\Debug\AstroWallpaperService.pdb
+C:\Users\Mark\source\repos\AstroWallpaper\Output\AstroWallpaperService.exe.config
+C:\Users\Mark\source\repos\AstroWallpaper\Output\AstroWallpaperService.exe
+C:\Users\Mark\source\repos\AstroWallpaper\Output\AstroWallpaperService.pdb
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperService\obj\Debug\AstroWallpaperService.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperService\obj\Debug\AstroWallpaperService.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperService\obj\Debug\AstroWal.427D3609.Up2Date
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperService\obj\Debug\AstroWallpaperService.exe
+C:\Users\Mark\source\repos\AstroWallpaper\AstroWallpaperService\obj\Debug\AstroWallpaperService.pdb
