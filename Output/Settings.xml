@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Settings>
-  <APODEnabled>false</APODEnabled>
-  <HubbleEnabled>false</HubbleEnabled>
-  <ESOEnabled>true</ESOEnabled>
-  <IntervalMinutes>60</IntervalMinutes>
-</Settings>
